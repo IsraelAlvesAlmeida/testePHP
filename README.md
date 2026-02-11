@@ -1,4 +1,3 @@
-# Teste Prático de PHP
 # 📌 Teste Prático – Desenvolvedor PHP
 
 ## 📌 Contexto
