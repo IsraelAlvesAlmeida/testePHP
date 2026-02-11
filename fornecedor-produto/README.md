@@ -15,12 +15,13 @@
     git clone https://github.com/seu-usuario/seu-repositorio.git
     Ou baixar o projeto e extrair na pasta htdocs do XAMPP.
     Exemplo: C:\xampp\htdocs\virtualMarket
+    Crie a pasta raiz "virtualMarket" e adicione a pasta fornecedor-produto dentro dela
 
 ### Criar o banco de dados
 
     Acesse o phpMyAdmin
     Crie um banco de dados (exemplo):
-    CREATE DATABASE virtual_market;
+    CREATE DATABASE fornecedor_produto;
     Importe o arquivo SQL localizado em:
     /database/schema.sql
 
@@ -30,7 +31,7 @@
 
     Atualize as credenciais conforme seu ambiente:
         private $host = 'localhost';
-        private $db   = 'virtual_market';
+        private $db   = 'fornecedor_produto';
         private $user = 'root';
         private $pass = '';
 
