@@ -111,10 +111,11 @@ Escolha ao menos 1 dos desafios abaixo (ou proponha outro):
 🧠 Tomada de decisão (obrigatório)
 Crie um arquivo DECISOES.md ou um comentário no código explicando:
 
- Como você modelou o banco de dados (Inclua a modelagem de Banco de Dados)
+Como você modelou o banco de dados (Inclua a modelagem de Banco de Dados)
  Por que escolheu essa estrutura
  O que melhoraria se tivesse mais tempo
 📌 Não precisa ser longo. Clareza é mais importante que volume.
+
 =======
 Você tem liberdade para **tomar decisões técnicas e funcionais**, desde que atenda aos requisitos mínimos descritos abaixo.
 
@@ -247,5 +248,4 @@ Crie um arquivo `DECISOES.md` ou um comentário no código explicando:
 - [x]  Por que escolheu essa estrutura
 - [x]  O que melhoraria se tivesse mais tempo
 
-📌 Não precisa ser longo. Clareza é mais importante que volume.
 >>>>>>> 14ae69a90042ee98a5a1603399d08d9301358ea2
